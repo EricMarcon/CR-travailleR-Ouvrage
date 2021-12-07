@@ -6,10 +6,10 @@ Ce dépôt destiné à la classe GitHub Cours-R est destiné à recevoir le proj
 
 ## Instructions
 
-Créer un ouvrage EcoFoG dans un dossier quelconque et copiez-le dans ce dépôt.
+Créer un mémoire avec le package memoiR dans un dossier quelconque et copiez-le dans ce dépôt.
 
 - Construisez le livre au format GitBook ;
-- Modifiez l’entête de index.Rmd pour produire une thèse de doctorat ;
+- Modifiez l’entête de index.Rmd pour n'avoir qu'une seule couverture et un titre ;
 - Construisez le livre au format LaTeX pour voir la couverture ;
 - Faites quelques modifications : ajoutez un chapitre,...
 - Activez les pages GitHub pour lire et télécharger l’ouvrage.
